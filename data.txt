@@ -1,0 +1,15 @@
+    'city' TEXT,
+    'country' TEXT,
+    'keys' TEXT,
+    'latitude' INTEGER,
+    'longitude' INTEGER,
+    'menuPageURL' INTEGER,
+    'menus_amountMax' INTEGER,
+    'menus_amountMin' INTEGER
+    'menus_dateSeen' TEXT
+    'menus_name' TEXT
+    'postalCode' INTEGER,
+    'priceRangeCurrency' TEXT,
+    'priceRangeMin' INTEGER,
+    'priceRangeMax' INTEGER
+    'province' TEXT);

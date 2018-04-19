@@ -1,0 +1,6 @@
+twitter_api_key = '1qp6a7B8ZAJMEX2vKGdNGJGMT'
+twitter_api_secret = 'wM6tC3woOPI8dOt7WQhSFIzkDYRj7EXCwLTbqjML5rNAwQbtfR'
+twitter_access_token = '4432586717-6ayW1oQf5yJGvhiXgFudeChuAx0VEGnWT3xIMJz'
+twitter_access_token_secret = 'dl7da0tl8zqq4EfbuzXKklDRHIxjZmY3H6GFsvJ9clf23'
+YELP_API_KEY = 'njSRniwRj1viZqLdODlDoWLX2coju0-OdRyGxA_NbIvjDEG3CK5tyLm2OxvxEtNNN7sDg1v5kLM0DRRjdTbD8WT3ExXI2was2Ar8-xXi95FicT_5jxXsl7VdfpnOWnYx'
+mapbox_token = 'pk.eyJ1IjoiZ2FidGFiIiwiYSI6ImNqZzRoNmYxNTAxbHAycG80bzBseWV3cGwifQ.7hdk2woauWSMkMQVudmPcw'
