@@ -1,7 +1,7 @@
 import unittest
 import json
-import final_project as project
-from ok import *
+import final as project
+from final import *
 
 class TestDatabase(unittest.TestCase):
     def test_city(self):
